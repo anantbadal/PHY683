@@ -4,5 +4,5 @@
 
 **Course Instructor:** Navaneeth Poonthottathil (navaneeth@iitk.ac.in)
 
-This repository contains the lecture notes, quizzes/Assignments, Projects, and exams of this course
+This repository contains the lecture notes, quizzes/assignments, projects, and exams of this course
 with the solutions as done in this semester. It may also contain some previous years' exams.
